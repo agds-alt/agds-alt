@@ -7,6 +7,10 @@
 
 **Full-Stack Software Engineer** specializing in production-grade web applications, SaaS platforms, and algorithmic trading systems.
 
+---
+
+<!-- DAILY_QUOTE:START -->**Quote of the Day:** "Make it work, make it right, make it fast. - Kent Beck"<br>*Last updated: January 31, 2026*<!-- DAILY_QUOTE:END -->
+
 </div>
 
 ---
